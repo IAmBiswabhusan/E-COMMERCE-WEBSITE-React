@@ -41,7 +41,7 @@ const Header = () => {
 
         <div className="flex items-center gap-6">
           {/* Auth actions (desktop only) */}
-          <div className="hidden md:flex items-center gap-4">
+          <div className="flex items-center gap-4">
             {user ? (
               <>
                 <span className="text-sm text-white/80">
