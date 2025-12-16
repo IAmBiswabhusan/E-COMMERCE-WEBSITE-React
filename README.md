@@ -129,14 +129,7 @@ npm run preview
 -  Smooth transitions and hover effects  
 -  Responsive layout for desktop and mobile  
 -  Intuitive cart and checkout experience  
-
----
-
-## 📝 Notes
-
-- This is a **frontend-focused** project  
-- Authentication is **simulated** for demonstration purposes  
-- Designed with **scalability** and **maintainability** in mind  
+ 
 
 ---
 
