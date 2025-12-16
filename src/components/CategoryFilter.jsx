@@ -9,7 +9,7 @@ const CategoryFilter = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="flex justify-center mb-16 relative z-30">
+    <div className="flex justify-center mb-16 relative z-50">
       <div className="w-72 relative">
         {/* Filter label shown above dropdown */}
         <p className="text-center text-sm text-white/60 mb-2">
