@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (1318)" src="https://github.com/user-attachments/assets/1ec39153-6230-483a-b253-c4580d14e522" /># Bhusan Mart – React E-Commerce Application
+# Bhusan Mart – React E-Commerce Application
 
 Bhusan Mart is a **modern React-based e-commerce web application** that demonstrates real-world shopping cart functionality, global state management, product filtering, authentication flow, and a polished user interface.
 
